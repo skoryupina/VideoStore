@@ -11,15 +11,15 @@ public class Movie {
         _priceCode = priceCode;
     }
 
-    public int get_priceCode() {
+    public int getPriceCode() {
         return _priceCode;
     }
 
-    public void set_priceCode(int _priceCode) {
+    public void setPriceCode(int _priceCode) {
         this._priceCode = _priceCode;
     }
 
-    public String get_title() {
+    public String getTitle() {
         return _title;
     }
 }
